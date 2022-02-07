@@ -1,4 +1,4 @@
-package linearsearch;
+package searchalgorithms.linearsearch;
 
 import arrayhelper.ArrayHelper;
 

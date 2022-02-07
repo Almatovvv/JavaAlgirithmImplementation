@@ -1,7 +1,6 @@
-package binarysearch;
+package searchalgorithms.binarysearch;
 
 import arrayhelper.ArrayHelper;
-import linearsearch.LinearSearch;
 
 //Binary search works much more efficient, but this algorithm needs sorted list
 public class BinarySearch {
